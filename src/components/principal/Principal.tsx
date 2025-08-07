@@ -259,7 +259,7 @@ function Principal() {
                     {/* Container para o texto */}
 
                     {/* Bloco 1: Gestão de recrutamento e seleção */}
-                    <section className="flex flex-col md:flex-row items-center justify-center gap-8 w-full max-w-5xl px-8">
+                    <section className="flex flex-col md:flex-row items-center justify-center gap-8 w-full px-8">
 
                         {/* Coluna da imagem */}
                         <div className="w-full md:w-1/2 flex justify-center">
