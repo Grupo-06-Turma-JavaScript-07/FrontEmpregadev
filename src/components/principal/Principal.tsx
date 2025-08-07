@@ -14,7 +14,7 @@ function Principal() {
                     {/* Coluna do texto */}
                     <div className="flex flex-col justify-center items-center text-center gap-y-6">
                         <h2 className="text-4xl font-bold font-serif">Emprega<span className="text-[#5e8d5e]">Dev</span></h2>
-                        <p className="text-xl font-semibold font-serif">
+                        <p className="text-xl font-roboto">
                             Plataforma de monitoramento e informações dos colaboradores.
                         </p>
                         <div className="flex justify-center">
