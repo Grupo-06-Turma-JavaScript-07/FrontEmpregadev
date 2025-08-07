@@ -2,7 +2,7 @@ import { BrowserRouter } from 'react-router-dom'
 import Navbar from './components/navbar/Navbar'
 import Footer from './components/footer/Footer'
 import './App.css';
-import Produtos from './components/produtos/Produtos';
+import Produtos from './components/principal/Principal';
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
       <Navbar/>
       
       <Produtos/>
-      <div className="min-h-[80vh]"></div>
+      {/* <div className="min-h-[80vh]"></div> */}
       <Footer/>
     </BrowserRouter>
 
